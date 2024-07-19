@@ -79,7 +79,7 @@
 <body>
     <div class="calculator">
         <div class="display">
-            <div class="calc-name">Kanmani U</div>
+            <div class="calc-name">ANANTTHA VARTHAN S</div>
             <div class="calc-number">212221040070</div>
             <div class="calc-screen" id="screen">0</div>
         </div>
